@@ -14,7 +14,7 @@ namespace Tyuiu.HodakovaNA.Sprint4.Task0.V30
         {
             DataService ds = new DataService();
 
-            Console.Title = "Спринт #2 | Выполнила: Ходакова Н.А. | АСОиУб-23-1";
+            Console.Title = "Спринт #4 | Выполнила: Ходакова Н.А. | АСОиУб-23-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #4                                                               *");
             Console.WriteLine("* Тема: #4.0 Одномерные массивы (статический ввод)                        *");
