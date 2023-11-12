@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Tyuiu.HodakobaNA.Sprint4\Tyuiu.HodakovaNA.Sprint4.Task4.V8\bin\Debug\Tyuiu.HodakovaNA.Sprint4.Task4.V8.exe.config
+C:\Users\User\source\repos\Tyuiu.HodakobaNA.Sprint4\Tyuiu.HodakovaNA.Sprint4.Task4.V8\bin\Debug\Tyuiu.HodakovaNA.Sprint4.Task4.V8.exe
+C:\Users\User\source\repos\Tyuiu.HodakobaNA.Sprint4\Tyuiu.HodakovaNA.Sprint4.Task4.V8\bin\Debug\Tyuiu.HodakovaNA.Sprint4.Task4.V8.pdb
+C:\Users\User\source\repos\Tyuiu.HodakobaNA.Sprint4\Tyuiu.HodakovaNA.Sprint4.Task4.V8\bin\Debug\Tyuiu.HodakovaNA.Sprint4.Task4.V8.Lib.dll
+C:\Users\User\source\repos\Tyuiu.HodakobaNA.Sprint4\Tyuiu.HodakovaNA.Sprint4.Task4.V8\bin\Debug\Tyuiu.HodakovaNA.Sprint4.Task4.V8.Lib.pdb
+C:\Users\User\source\repos\Tyuiu.HodakobaNA.Sprint4\Tyuiu.HodakovaNA.Sprint4.Task4.V8\obj\Debug\Tyuiu.HodakovaNA.Sprint4.Task4.V8.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Tyuiu.HodakobaNA.Sprint4\Tyuiu.HodakovaNA.Sprint4.Task4.V8\obj\Debug\Tyuiu.HodakovaNA.Sprint4.Task4.V8.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Tyuiu.HodakobaNA.Sprint4\Tyuiu.HodakovaNA.Sprint4.Task4.V8\obj\Debug\Tyuiu.HodakovaNA.Sprint4.Task4.V8.csproj.CopyComplete
+C:\Users\User\source\repos\Tyuiu.HodakobaNA.Sprint4\Tyuiu.HodakovaNA.Sprint4.Task4.V8\obj\Debug\Tyuiu.HodakovaNA.Sprint4.Task4.V8.exe
+C:\Users\User\source\repos\Tyuiu.HodakobaNA.Sprint4\Tyuiu.HodakovaNA.Sprint4.Task4.V8\obj\Debug\Tyuiu.HodakovaNA.Sprint4.Task4.V8.pdb
