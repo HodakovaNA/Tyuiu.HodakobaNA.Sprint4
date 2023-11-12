@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Tyuiu.HodakobaNA.Sprint4\Tyuiu.HodakovaNA.Sprint4.Task7.V18.Lib\bin\Debug\Tyuiu.HodakovaNA.Sprint4.Task7.V18.Lib.dll
+C:\Users\User\source\repos\Tyuiu.HodakobaNA.Sprint4\Tyuiu.HodakovaNA.Sprint4.Task7.V18.Lib\bin\Debug\Tyuiu.HodakovaNA.Sprint4.Task7.V18.Lib.pdb
+C:\Users\User\source\repos\Tyuiu.HodakobaNA.Sprint4\Tyuiu.HodakovaNA.Sprint4.Task7.V18.Lib\bin\Debug\tyuiu.cources.programming.interfaces.dll
+C:\Users\User\source\repos\Tyuiu.HodakobaNA.Sprint4\Tyuiu.HodakovaNA.Sprint4.Task7.V18.Lib\obj\Debug\Tyuiu.HodakovaNA.Sprint4.Task7.V18.Lib.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Tyuiu.HodakobaNA.Sprint4\Tyuiu.HodakovaNA.Sprint4.Task7.V18.Lib\obj\Debug\Tyuiu.HodakovaNA.Sprint4.Task7.V18.Lib.csproj.CopyComplete
+C:\Users\User\source\repos\Tyuiu.HodakobaNA.Sprint4\Tyuiu.HodakovaNA.Sprint4.Task7.V18.Lib\obj\Debug\Tyuiu.HodakovaNA.Sprint4.Task7.V18.Lib.dll
+C:\Users\User\source\repos\Tyuiu.HodakobaNA.Sprint4\Tyuiu.HodakovaNA.Sprint4.Task7.V18.Lib\obj\Debug\Tyuiu.HodakovaNA.Sprint4.Task7.V18.Lib.pdb
